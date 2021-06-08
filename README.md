@@ -1,6 +1,5 @@
 # Ansible Role: WP-CLI
 
-[![Build Status](https://travis-ci.org/sbaerlocher/ansible.wp-cli.svg?branch=master)](https://travis-ci.org/sbaerlocher/ansible.wp-cli) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://sbaerlo.ch/licence) [![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-wp-cli-blue.svg)](https://galaxy.ansible.com/sbaerlocher/wp-cli)
 
 ## Description
 
@@ -9,7 +8,7 @@ Ansible role for installing WP-CLI, a command line interface for WordPress.
 ## Installation
 
 ```bash
-ansible-galaxy install sbaerlocher.wp-cli
+ansible-galaxy install melchilio.wp-cli
 ```
 
 ## Requirements
