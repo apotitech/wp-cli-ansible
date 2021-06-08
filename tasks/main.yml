@@ -1,5 +1,5 @@
 ---
-# tasks file for sbaerlocher.wp-cli
+# tasks file for melchilio.wp-cli
 
 - name: Install WP-CLI
   get_url:
